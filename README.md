@@ -6,7 +6,7 @@ To-do-list using javascript
 ![Screenshot (81)](https://github.com/user-attachments/assets/f66a01b1-19f6-465e-962f-85c929b76a44)
 3. Editing the to-do-list
 ![Screenshot (80)](https://github.com/user-attachments/assets/22e9c727-3bac-4902-a522-8afa08b20a68)
- After editing/changing the Meeting with Meti to Meeting with Davi
+ After editing/changing the Meeting with Meti to Meeting with David
 ![Screenshot (84)](https://github.com/user-attachments/assets/1089afd4-6504-4ab1-af9a-a2f6c6afba25)
 4. It also have memory of what we wrote/added first to the to-do-list
 ![Screenshot (79)](https://github.com/user-attachments/assets/9c98f85a-5a1f-4492-a024-07002cebba06)
